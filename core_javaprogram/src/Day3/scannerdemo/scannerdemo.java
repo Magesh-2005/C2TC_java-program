@@ -1,6 +1,6 @@
-package Day3;
+package Day3.scannerdemo;
 import java.util.Scanner;
-public class PersonDemo {
+public class scannerdemo {
 	public static void main(String[] args) {
 
 		//scanner object to accept user inputs
@@ -33,4 +33,5 @@ public class PersonDemo {
 
 		ob.close();
 	}
+
 }
