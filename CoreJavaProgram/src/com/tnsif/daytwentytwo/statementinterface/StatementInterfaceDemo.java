@@ -147,7 +147,6 @@ public class StatementInterfaceDemo {
 			st.close();
 			cn.close();
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
